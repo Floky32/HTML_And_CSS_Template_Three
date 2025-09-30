@@ -18,7 +18,8 @@ This template is perfect for personal portfolios, blogs, or showcasing creative 
 * 🎨 **Modern Design** – clean UI with a professional look.
 * 🌀 **CSS Animations** – smooth transitions and interactive effects.
 * 📂 **Organized Code** – easy to read, edit, and customize.
-*🌍 Multi-section Layout – Home, Articles, Gallery, Features, and more.
+* 🌍 Multi-section Layout – Home, Articles, Gallery, Features, and more.
+
 
 ---
 
